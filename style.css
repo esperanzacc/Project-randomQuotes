@@ -1,0 +1,33 @@
+* {
+  margin: 30px;
+}
+
+body {
+  background-color: rgb(235, 228, 189);
+  font-family: Arial;
+  font-size: 17px;
+}
+
+h1 {
+  font-size: 35px;
+  color: rgb(18, 52, 117);
+  background-color: rgb(230, 206, 203);
+  border: 5px solid rgb(230, 206, 203);
+  padding: 10px;
+}
+
+#nameDisplay {
+  font-size: 20px;
+  background-color: rgb(177, 207, 117);
+  margin-bottom: 3px;
+}
+
+#quoteDisplay {
+  font-size: 20px;
+  background-color: rgb(181, 228, 231);
+}
+
+button {
+  background-color: rgb(155, 212, 144);
+  border: solid rgb(155, 212, 144);
+}
